@@ -18,8 +18,8 @@ const car2:ICar = {
     topSpeed: 100
 }
 
-const muntiply = (x: number,y: number) =>{
-    x*y
-}
+// const muntiply = (x: number,y: number):number =>{
+//     return x*y
+// }
 
 export const cars = [car1, car2];
